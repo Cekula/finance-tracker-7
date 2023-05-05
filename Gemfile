@@ -13,6 +13,7 @@ gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
 gem 'iex-ruby-client'
 gem 'sass-rails'
+gem "font-awesome-rails"
 
 
 # Use the Puma web server [https://github.com/puma/puma]
