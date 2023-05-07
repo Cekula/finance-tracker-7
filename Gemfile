@@ -11,6 +11,7 @@ gem "sprockets-rails"
 
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
+gem 'jquery-rails'
 gem 'iex-ruby-client'
 gem 'sass-rails'
 gem "font-awesome-rails"
